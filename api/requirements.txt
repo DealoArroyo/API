@@ -1,0 +1,7 @@
+Flask==2.3.2                # Framework web principal
+Flask-Cors==3.0.10          # Para permitir solicitudes CORS desde Flutter
+numpy==1.26.2              # Para trabajar con datos numéricos
+pandas==2.1.2               # Para procesar los archivos Excel
+scikit-learn==1.3.1         # Para manejar el modelo entrenado
+tensorflow==2.14.0          # Para cargar y usar el modelo `.h5`
+openpyxl==3.1.2             # Para manejar archivos Excel
